@@ -1,2 +1,2 @@
-## Machine-Learning
-## This repository contains few key works on machine learning algorithms and concepts, which were completed during my graduation program.
+## Machine-Learning/ Deep-Learning
+## This repository contains some of my key works on Machine Learning and Deep Learning concepts, which were completed during my graduation program.
